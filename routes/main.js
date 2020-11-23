@@ -31,6 +31,11 @@ router.get('/items', async (req, res, next) => {
     })
 })
 
+router.post('/order', (req, res, next) => {
+    const orderData = req.body
+    res.json(orderData)
+})
+
 // Create Dummy data
 // router.all('/items/post', async (req, res, next) => {
 //     const posts = [
