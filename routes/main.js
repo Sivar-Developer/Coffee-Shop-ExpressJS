@@ -2,17 +2,14 @@ const express = require('express')
 const router = express.Router()
 
 router.get('/', (req, res, next) => {
-    const data = req.context
-    res.render('home', data)
+    res.render('home', req.context)
 })
 
 router.get('/blog', (req, res, next) => {
-    const data = req.context
-    res.render('blog', data)
+    res.render('blog', req.context)
 })
 router.get('/menu', (req, res, next) => {
-    const data = req.context 
-    res.render('menu', data)
+    res.render('menu', req.context)
 })
 
 module.exports = router 
