@@ -17,35 +17,36 @@
     "team": {
         "subheader": "Team",
         "header": "Meet the Team",
+        "img_bg": "/images/bg_5.jpg",
         "persons": [
             {
                 "name": "Sivar Sarkawt",
                 "position": "Customer 1",
-                "image": "images/person_1.jpg",
+                "image": "/images/person_1.jpg",
                 "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
             },
             {
                 "name": "Arthur Browner",
                 "position": "Customer 2",
-                "image": "images/person_2.jpg",
+                "image": "/images/person_2.jpg",
                 "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
             },
             {
                 "name": "Soran Shexane",
                 "position": "Customer 3",
-                "image": "images/person_3.jpg",
+                "image": "/images/person_3.jpg",
                 "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
             },
             {
                 "name": "Omar Dler",
                 "position": "Customer4",
-                "image": "images/person_4.jpg",
+                "image": "/images/person_4.jpg",
                 "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
             },
             {
                 "name": "Sivan Sarkawt",
                 "position": "Customer 5",
-                "image": "images/person_4.jpg",
+                "image": "/images/person_4.jpg",
                 "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
             }
         ]
