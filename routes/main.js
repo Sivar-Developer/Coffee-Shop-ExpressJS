@@ -31,9 +31,11 @@ router.get('/items', async (req, res, next) => {
     })
 })
 
-router.post('/order', (req, res, next) => {
+router.post('/order', async (req, res, next) => {
     const orderData = req.body
-    res.json(orderData)
+    const orderCtrl = controllers.order.instance()
+    const order = await orderCtrl.post(orderData)
+    res.json(order)
 })
 
 // Create Dummy data
