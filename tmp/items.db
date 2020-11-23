@@ -1,0 +1,9 @@
+{"name":"Grilled Beef with potatoes","category":"Breakfast","description":"Lorem Ipsum dolor","price":0,"image":"images/breakfast-1.jpg","schema":"item","timestamp":{"$$date":1606126827691},"_id":"6b7nKrcISxEZt3T5"}
+{"name":"Grilled Crab with Onion dinner 3","category":"Dinner","description":"Lorem Ipsum dolor","price":0,"image":"images/dinner-3.jpg","schema":"item","timestamp":{"$$date":1606126827692},"_id":"LKvDoRkCZn2fYrDR"}
+{"name":"Grilled Crab with Onion lunch 1","category":"Lunch","description":"Lorem Ipsum dolor","price":0,"image":"images/lunch-3.jpg","schema":"item","timestamp":{"$$date":1606126827691},"_id":"LOxudpU15lQKqtVa"}
+{"name":"Grilled Crab with Onion dinner 1","category":"Dinner","description":"Lorem Ipsum dolor","price":0,"image":"images/dinner-3.jpg","schema":"item","timestamp":{"$$date":1606126827692},"_id":"ON3NZoboWXkHUl9B"}
+{"name":"Grilled Crab with Onion special 2","category":"Breakfast","description":"Lorem Ipsum dolor","price":0,"image":"images/breakfast-3.jpg","schema":"item","timestamp":{"$$date":1606126827691},"_id":"UpBieEx965Vl8fkC"}
+{"name":"Grilled Crab with Onion dinner 2","category":"Dinner","description":"Lorem Ipsum dolor","price":0,"image":"images/dinner-3.jpg","schema":"item","timestamp":{"$$date":1606126827692},"_id":"ei06DmhJTVRH8c5r"}
+{"name":"Grilled Crab with Onion lunch 3","category":"Lunch","description":"Lorem Ipsum dolor","price":0,"image":"images/lunch-3.jpg","schema":"item","timestamp":{"$$date":1606126827692},"_id":"qkrm4e69jSqECCFb"}
+{"name":"Grilled Crab with Onion lunch 2","category":"Lunch","description":"Lorem Ipsum dolor","price":0,"image":"images/lunch-3.jpg","schema":"item","timestamp":{"$$date":1606126827692},"_id":"sWBztYW6CScyZPhp"}
+{"name":"Grilled Crab with Onion special 1","category":"Breakfast","description":"Lorem Ipsum dolor","price":0,"image":"images/breakfast-2.jpg","schema":"item","timestamp":{"$$date":1606126827691},"_id":"vcf5FckHtUjwbY2o"}
