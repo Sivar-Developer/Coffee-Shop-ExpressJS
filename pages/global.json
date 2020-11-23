@@ -1,4 +1,9 @@
 {
     "title": "Coffee Home",
-    "description": "Coffe Home,  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    "description": "Coffe Home,  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    "hours": [
+        { "day": "Mon - Friday", "time": "6AM to 10PM" },
+        { "day": "Saturday", "time": "7AM to 11PM" }, 
+        { "day": "Sunday", "time": "6AM to 9PM" }
+    ]
 }
